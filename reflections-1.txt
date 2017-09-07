@@ -1,0 +1,3 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+The diff in mac and fc in windows compared two versions of file. This helps to spot the places the code was changed. It makes it easier than to search each file manually
+

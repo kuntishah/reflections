@@ -1,0 +1,6 @@
+How can you use the commands git log and git diff to view the history of files?
+
+git log gives the list of commits performed on the repository in which one is in, with the reason the commit was performed and who performed
+that commit.
+git diff show the code of both commits and highlights the code that was deleted and added to the new code.
+
