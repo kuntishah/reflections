@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git folder is made and it tracks history for file
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+working directory is not on it. repository is part of git itself and contains history of all the files.
+staging area lets us make logical commits. I can add files to staging area and commit. Then add more files and commit logically.
+
