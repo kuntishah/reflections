@@ -7,3 +7,16 @@ How is the staging area different from the working directory and the repository?
 working directory is not on it. repository is part of git itself and contains history of all the files.
 staging area lets us make logical commits. I can add files to staging area and commit. Then add more files and commit logically.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+add files to stagin area that cater to one logical change only. And commit those changes with an approproiate
+commit message. Doing this helps track all the logical changes made.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+branches do not interfere with the main logic. Different logic to the same problem can
+be solved under different branches and can be checked if they work right. 
+
+How do the diagrams help you visualize the branch structure?
+
+they are more clearer and explain concept well
