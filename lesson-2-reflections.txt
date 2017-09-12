@@ -20,3 +20,13 @@ be solved under different branches and can be checked if they work right.
 How do the diagrams help you visualize the branch structure?
 
 they are more clearer and explain concept well
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Two codes working on sa,e project but different featears are merged together. We represent in the diagram that coins merges in to master.
+because coins does merge into master which is the main code.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git does it for you and it is a little easier
